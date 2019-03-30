@@ -16,3 +16,7 @@ An A/B test and six logistic regression models were ran. One model, which includ
 ## The verdict
 
 The A/B tests and the logistic regressions all suggest that the new page would not be an improvement. Although looking at the interaction between whether the user viewed the new page or the old page on a weekday or weekend was statistically significant, it was not practically significant. The new page is slightly less effective but perhaps not different enough from the old page to learn from what customers like.
+
+## Recommendations
+
+Before forgoing website redesign completely, further research may be needed. Notabley, the study only took place during the period of less than one month. Two phenomena that can influence the results are the novelty effect and change aversion. Individuals in the treatment group, if they are familiar with and used to the old site, may either be more inclined to like the new page due to its newness, or less inclined due to change aversion, regardless of the merits of the page itself. One way to safeguard against these phenomena is to run the study over a wide period of time to allow for the novelty to wear off. 
