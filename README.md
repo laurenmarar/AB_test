@@ -1,5 +1,5 @@
 # AB_test
-AB test and logistic regressions to assess company web pages
+*AB test and logistic regressions to assess company web pages*
 
 This project seeks to analyze the impact of an A/B test run by an e-commerce website. It calculates probability and runs A/B Tests and logistic regressions to help the company understand if they should implement the new page, keep the old page, or run the experiment longer to make their decision.
 
